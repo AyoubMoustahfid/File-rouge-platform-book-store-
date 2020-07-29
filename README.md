@@ -71,11 +71,13 @@
     
 ![image](https://user-images.githubusercontent.com/47373251/88774474-668e3600-d17b-11ea-9e3c-13f174604e72.png)
     
-![image](https://user-images.githubusercontent.com/47373251/88774594-8aea1280-d17b-11ea-8261-f7a6f7942e5d.png)
+![image](https://user-images.githubusercontent.com/47373251/88776166-8888b800-d17d-11ea-8cd2-63b8e21922ce.png)
     
     -> Page Manage orders : Sur cette page, le superviseur aura le rôle de confirmer la commande
     
-![image](https://user-images.githubusercontent.com/47373251/88775261-62aee380-d17c-11ea-90fc-9bcb8e3cfb63.png)
+![image](https://user-images.githubusercontent.com/47373251/88775828-187a3200-d17d-11ea-8dea-5df93d5d4740.png)
+
+
 
 
 
