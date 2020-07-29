@@ -48,7 +48,7 @@
  
      -> En a 5 tableaux : carts , orders , products , sessions ,  users
      
-     ![collection-data-mongodb](https://user-images.githubusercontent.com/47373251/88772850-3f366980-d179-11ea-889a-cf3888df86c4.png)
+![collection-data-mongodb](https://user-images.githubusercontent.com/47373251/88772850-3f366980-d179-11ea-889a-cf3888df86c4.png)
      
  -> Page de projet : 
  
@@ -66,8 +66,8 @@
     
 ![image](https://user-images.githubusercontent.com/47373251/88774086-ec5db180-d17a-11ea-86e3-9571293652bf.png)
     
-    -> Page Orders : est une page où l'achat est confirmé après avoir rempli des informations client supplémentaires,
-       Il peut supprimer la demande s'il le souhaite
+    -> Page Orders : est une page où l'achat est confirmé après avoir rempli des informations client 
+       supplémentaires, Il peut supprimer la demande s'il le souhaite
     
 ![image](https://user-images.githubusercontent.com/47373251/88774474-668e3600-d17b-11ea-9e3c-13f174604e72.png)
     
@@ -77,7 +77,7 @@
     
 ![image](https://user-images.githubusercontent.com/47373251/88775828-187a3200-d17d-11ea-8dea-5df93d5d4740.png)
 
-#> Demo : https://book-store-morocco.herokuapp.com/
+-> Demo : https://book-store-morocco.herokuapp.com/
 
 
 
