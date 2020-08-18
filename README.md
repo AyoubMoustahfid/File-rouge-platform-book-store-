@@ -54,7 +54,7 @@
  
     -> Page home : est une page qui affiche tout les produits de la bibliothéque avec une pagination de la page
     
-![image](https://user-images.githubusercontent.com/47373251/88773158-b0761c80-d179-11ea-95bd-9da0f1f48c33.png)
+![image](https://user-images.githubusercontent.com/47373251/90575396-3272c780-e1b3-11ea-9e03-c16c73f38718.png)
     
     -> Page sign in et sign up : est une page pour connecté le compte de client ou d'admin
     
